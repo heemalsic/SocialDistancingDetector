@@ -2,13 +2,13 @@
 
 <br>
 
-To check whether if people are following social distancing precautions within a crowd using computer vision technologies
+To check whether if people are following social distancing precautions within a crowd using computer vision technologies.
 
 
 ## Functioning 
 * Object detection using the YOLO COCO model to detect only people in the video stream.
 * Computes the distances between all detected people in the bounding boxes.
-* Based on the computed distances, we determine whether social distancing rule or precaution is being violated or not.
+* Based on the computed distances, we determine whether the social distancing rule or precaution is being violated or not.
 
 ## Technologies and Libraries Used
 
